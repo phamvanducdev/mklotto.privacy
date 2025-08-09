@@ -1,7 +1,9 @@
-# Privacy Policy  
+# Privacy Policy for Minh Khang Lotto  
 *Last Updated: Aug 10, 2025*  
 
-Minh Khang Lotto is committed to protecting your privacy. This privacy policy outlines our practices regarding the collection, use, and disclosure of information through the Minh Khang Lotto mobile application.  
+This Privacy Policy applies to the **Minh Khang Lotto** mobile application published on Google Play by **Pham Van Duc** (Developer). It explains how we handle information when you use our application.  
+
+Minh Khang Lotto is committed to protecting your privacy. This policy outlines our practices regarding the collection, use, and disclosure of information through the Minh Khang Lotto mobile application.  
 
 ## 1. Information We Collect  
 We want to be transparent: **Minh Khang Lotto does not collect or store any personal information** from users. This includes but is not limited to names, email addresses, phone numbers, or any other personally identifiable data.  
@@ -30,15 +32,17 @@ We may update this Privacy Policy from time to time to reflect changes in law or
 ## 7. Contact Us  
 If you have any questions about this privacy policy or our data handling practices, please contact us at:  
 
-**Minh Khang Lotto Team**  
-phamvanduc.dev@gmail.com 
+**Pham Van Duc (Developer of Minh Khang Lotto)**  
+phamvanduc.dev@gmail.com  
 
 ---
 
-# Chính Sách Bảo Mật  
+# Chính Sách Bảo Mật cho Minh Khang Lotto  
 *Cập nhật lần cuối: 10/08/2025*  
 
-Minh Khang Lotto cam kết bảo vệ quyền riêng tư của bạn. Chính sách bảo mật này giải thích cách chúng tôi thu thập, sử dụng và tiết lộ thông tin thông qua ứng dụng di động Minh Khang Lotto.  
+Chính Sách Bảo Mật này áp dụng cho ứng dụng di động **Minh Khang Lotto** được phát hành trên Google Play bởi **Pham Van Duc** (nhà phát triển). Chính sách này giải thích cách chúng tôi xử lý thông tin khi bạn sử dụng ứng dụng.  
+
+Minh Khang Lotto cam kết bảo vệ quyền riêng tư của bạn. Chính sách này mô tả cách chúng tôi thu thập, sử dụng và tiết lộ thông tin thông qua ứng dụng di động Minh Khang Lotto.  
 
 ## 1. Thông Tin Chúng Tôi Thu Thập  
 Chúng tôi muốn minh bạch: **Minh Khang Lotto không thu thập hoặc lưu trữ bất kỳ thông tin cá nhân nào** từ người dùng. Điều này bao gồm nhưng không giới hạn ở họ tên, địa chỉ email, số điện thoại hoặc bất kỳ dữ liệu định danh cá nhân nào khác.  
@@ -67,5 +71,5 @@ Chúng tôi có thể cập nhật Chính Sách Bảo Mật này theo thời gia
 ## 7. Liên Hệ  
 Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật này hoặc cách chúng tôi xử lý dữ liệu, vui lòng liên hệ:  
 
-**Nhóm Minh Khang Lotto**  
+**Pham Van Duc (Nhà phát triển Minh Khang Lotto)**  
 phamvanduc.dev@gmail.com  
