@@ -1,6 +1,8 @@
 # Minh Khang Lotto - Legal Documents
+*Last Updated: Sat 16, 2025*
 
-## 🇻🇳 Tiếng Việt
+
+## Tiếng Việt 🇻🇳
 
 ### Điều Khoản Sử Dụng (Terms of Use)
 
@@ -49,7 +51,7 @@
 
 ---
 
-## 🇬🇧 English
+## English 🇬🇧
 
 ### Terms of Use
 
@@ -94,4 +96,4 @@
    We implement appropriate technical and organizational measures to protect personal data.  
 
 5. **User Rights**  
-   You may request to modify or delete your personal information at any time.  
+   You may request to modify or delete your personal information at any time.
