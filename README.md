@@ -1,6 +1,5 @@
-# Minh Khang Lotto - Legal Documents
-*Last Updated: 16 Aug, 2025*
-
+# Minh Khang Lotto
+*Cập nhật lần cuối: 16/08/2025*
 
 ## Chính Sách Bảo Mật 🇻🇳
 
@@ -69,6 +68,8 @@ Nếu bạn có bất kỳ thắc mắc nào liên quan đến Điều Khoản S
 ---
 
 # Privacy Policy 🇬🇧
+
+**Last Updated: Aug 16, 2025**
 
 This Privacy Policy applies to the **Minh Khang Lotto** mobile application published on Google Play and App Store by **Pham Van Duc (Developer)**. It explains how we handle information when you use our application.
 
