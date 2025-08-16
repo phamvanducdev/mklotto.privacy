@@ -1,5 +1,5 @@
 # Minh Khang Lotto - Legal Documents
-*Last Updated: Sat 16, 2025*
+*Last Updated: 16 Aug, 2025*
 
 
 ## Tiếng Việt 🇻🇳
