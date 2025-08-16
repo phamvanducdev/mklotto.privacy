@@ -1,75 +1,97 @@
-# Privacy Policy for Minh Khang Lotto  
-*Last Updated: Aug 10, 2025*  
+# Minh Khang Lotto - Legal Documents
 
-This Privacy Policy applies to the **Minh Khang Lotto** mobile application published on Google Play by **Pham Van Duc** (Developer). It explains how we handle information when you use our application.  
+## 🇻🇳 Tiếng Việt
 
-Minh Khang Lotto is committed to protecting your privacy. This policy outlines our practices regarding the collection, use, and disclosure of information through the Minh Khang Lotto mobile application.  
+### Điều Khoản Sử Dụng (Terms of Use)
 
-## 1. Information We Collect  
-We want to be transparent: **Minh Khang Lotto does not collect or store any personal information** from users. This includes but is not limited to names, email addresses, phone numbers, or any other personally identifiable data.  
+1. **Chấp nhận điều khoản**  
+   Bằng việc sử dụng ứng dụng Minh Khang Lotto, bạn đồng ý tuân thủ và bị ràng buộc bởi các điều khoản sử dụng này.  
+   Nếu bạn không đồng ý, vui lòng ngừng sử dụng ứng dụng.
 
-## 2. Permissions Used  
-Minh Khang Lotto may request certain device permissions to provide essential features:  
+2. **Quyền và trách nhiệm của người dùng**  
+   - Cung cấp thông tin chính xác khi đăng ký và sử dụng.  
+   - Không sử dụng ứng dụng cho mục đích vi phạm pháp luật hoặc gian lận.  
+   - Chịu trách nhiệm đối với mọi hành động trong tài khoản của bạn.  
 
-- **Internet Access:** Used to communicate with the backend server.  
-- **Storage Access:** Used to save PDF files or other generated documents to your device.  
-- **Notifications:** Used to send order updates, confirmations, or important announcements.  
+3. **Quyền của chúng tôi**  
+   - Có thể tạm ngưng hoặc chấm dứt tài khoản nếu phát hiện vi phạm.  
+   - Có thể cập nhật hoặc thay đổi dịch vụ mà không cần thông báo trước.  
 
-These permissions are only used to enable app functionality and are not used to collect data.  
+4. **Giới hạn trách nhiệm**  
+   Minh Khang Lotto không chịu trách nhiệm cho bất kỳ tổn thất hoặc thiệt hại nào phát sinh từ việc sử dụng ứng dụng.  
 
-## 3. Data Sharing and Third Parties  
-We do not share any user information with third-party services or partners. No analytics SDKs, ad networks, or tracking tools are integrated into the app.  
-
-## 4. Children’s Privacy  
-Minh Khang Lotto is not directed toward children under the age of 13. We do not knowingly collect information from anyone under this age.  
-
-## 5. Security  
-Although we do not store user data, we still implement industry-standard security protocols to protect any non-personal or operational data (e.g., device IDs or system logs) that may be transmitted during usage.  
-
-## 6. Changes to This Policy  
-We may update this Privacy Policy from time to time to reflect changes in law or app features. When updates occur, we will post the revised policy on this page with the updated date.  
-
-## 7. Contact Us  
-If you have any questions about this privacy policy or our data handling practices, please contact us at:  
-
-**Pham Van Duc (Developer of Minh Khang Lotto)**  
-phamvanduc.dev@gmail.com  
+5. **Luật áp dụng**  
+   Các điều khoản này được điều chỉnh theo pháp luật Việt Nam.  
 
 ---
 
-# Chính Sách Bảo Mật cho Minh Khang Lotto  
-*Cập nhật lần cuối: 10/08/2025*  
+### Chính Sách Bảo Mật (Privacy Policy)
 
-Chính Sách Bảo Mật này áp dụng cho ứng dụng di động **Minh Khang Lotto** được phát hành trên Google Play bởi **Pham Van Duc** (nhà phát triển). Chính sách này giải thích cách chúng tôi xử lý thông tin khi bạn sử dụng ứng dụng.  
+1. **Thông tin chúng tôi thu thập**  
+   - Thông tin cá nhân: tên, số điện thoại, email (khi đăng ký).  
+   - Dữ liệu sử dụng: nhật ký hệ thống, thông tin thiết bị, hành vi sử dụng app.  
 
-Minh Khang Lotto cam kết bảo vệ quyền riêng tư của bạn. Chính sách này mô tả cách chúng tôi thu thập, sử dụng và tiết lộ thông tin thông qua ứng dụng di động Minh Khang Lotto.  
+2. **Cách chúng tôi sử dụng thông tin**  
+   - Cung cấp và cải thiện dịch vụ.  
+   - Hỗ trợ khách hàng và gửi thông báo quan trọng.  
+   - Tuân thủ yêu cầu pháp luật.  
 
-## 1. Thông Tin Chúng Tôi Thu Thập  
-Chúng tôi muốn minh bạch: **Minh Khang Lotto không thu thập hoặc lưu trữ bất kỳ thông tin cá nhân nào** từ người dùng. Điều này bao gồm nhưng không giới hạn ở họ tên, địa chỉ email, số điện thoại hoặc bất kỳ dữ liệu định danh cá nhân nào khác.  
+3. **Chia sẻ thông tin**  
+   Chúng tôi không bán, trao đổi thông tin cá nhân cho bên thứ ba, ngoại trừ:  
+   - Khi có sự đồng ý của bạn.  
+   - Khi có yêu cầu từ cơ quan pháp luật.  
 
-## 2. Quyền Truy Cập Ứng Dụng Sử Dụng  
-Minh Khang Lotto có thể yêu cầu một số quyền truy cập thiết bị để cung cấp các tính năng cần thiết:  
+4. **Bảo mật dữ liệu**  
+   Chúng tôi áp dụng các biện pháp kỹ thuật và tổ chức phù hợp để bảo vệ thông tin cá nhân.  
 
-- **Quyền truy cập Internet:** Dùng để kết nối và giao tiếp với máy chủ backend.  
-- **Quyền truy cập bộ nhớ:** Dùng để lưu tệp PDF hoặc tài liệu được tạo ra vào thiết bị của bạn.  
-- **Quyền gửi thông báo:** Dùng để gửi thông tin cập nhật đơn hàng, xác nhận hoặc thông báo quan trọng.  
+5. **Quyền của người dùng**  
+   Bạn có thể yêu cầu chỉnh sửa hoặc xóa thông tin cá nhân bất kỳ lúc nào.  
 
-Các quyền này chỉ được sử dụng để phục vụ chức năng của ứng dụng, không nhằm mục đích thu thập dữ liệu.  
+---
 
-## 3. Chia Sẻ Dữ Liệu Với Bên Thứ Ba  
-Chúng tôi không chia sẻ bất kỳ thông tin nào của người dùng với dịch vụ hoặc đối tác bên thứ ba. Ứng dụng không tích hợp các SDK phân tích, mạng quảng cáo hoặc công cụ theo dõi.  
+## 🇬🇧 English
 
-## 4. Quyền Riêng Tư Của Trẻ Em  
-Minh Khang Lotto không hướng đến trẻ em dưới 13 tuổi. Chúng tôi không cố ý thu thập thông tin từ bất kỳ ai dưới độ tuổi này.  
+### Terms of Use
 
-## 5. Bảo Mật  
-Mặc dù chúng tôi không lưu trữ dữ liệu người dùng, chúng tôi vẫn áp dụng các giao thức bảo mật tiêu chuẩn ngành để bảo vệ mọi dữ liệu không mang tính cá nhân hoặc dữ liệu vận hành (ví dụ: ID thiết bị, nhật ký hệ thống) có thể được truyền trong quá trình sử dụng.  
+1. **Acceptance of Terms**  
+   By using Minh Khang Lotto, you agree to comply with and be bound by these Terms of Use.  
+   If you do not agree, please stop using the app.
 
-## 6. Thay Đổi Chính Sách  
-Chúng tôi có thể cập nhật Chính Sách Bảo Mật này theo thời gian để phản ánh các thay đổi về pháp luật hoặc tính năng của ứng dụng. Khi có thay đổi, chúng tôi sẽ đăng bản cập nhật trên trang này kèm ngày sửa đổi.  
+2. **User Rights and Responsibilities**  
+   - Provide accurate information during registration and use.  
+   - Do not use the app for illegal or fraudulent purposes.  
+   - You are responsible for all activities under your account.  
 
-## 7. Liên Hệ  
-Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật này hoặc cách chúng tôi xử lý dữ liệu, vui lòng liên hệ:  
+3. **Our Rights**  
+   - We may suspend or terminate accounts if violations are detected.  
+   - We may update or change services without prior notice.  
 
-**Pham Van Duc (Nhà phát triển Minh Khang Lotto)**  
-phamvanduc.dev@gmail.com  
+4. **Limitation of Liability**  
+   Minh Khang Lotto is not liable for any loss or damages arising from the use of the app.  
+
+5. **Governing Law**  
+   These terms are governed by the laws of Vietnam.  
+
+---
+
+### Privacy Policy
+
+1. **Information We Collect**  
+   - Personal information: name, phone number, email (during registration).  
+   - Usage data: system logs, device information, app usage behavior.  
+
+2. **How We Use Information**  
+   - Provide and improve our services.  
+   - Customer support and important notifications.  
+   - Compliance with legal requirements.  
+
+3. **Information Sharing**  
+   We do not sell or trade personal data to third parties, except:  
+   - With your consent.  
+   - When required by law enforcement.  
+
+4. **Data Security**  
+   We implement appropriate technical and organizational measures to protect personal data.  
+
+5. **User Rights**  
+   You may request to modify or delete your personal information at any time.  
