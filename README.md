@@ -1,9 +1,9 @@
 # Minh Khang Lotto
-*Cập nhật lần cuối: 16/08/2025*
+*Cập nhật lần cuối: 03/10/2025*
 
 ## Chính Sách Bảo Mật 🇻🇳
 
-Chính Sách Bảo Mật này áp dụng cho ứng dụng di động **Minh Khang Lotto** được phát hành trên Google Play và App Store bởi **Pham Van Duc (nhà phát triển)**. Chính sách này giải thích cách chúng tôi xử lý thông tin khi bạn sử dụng ứng dụng.
+Chính Sách Bảo Mật này áp dụng cho ứng dụng di động **Minh Khang Lotto** được phát hành trên Google Play và App Store. Chính sách này giải thích cách chúng tôi xử lý thông tin khi bạn sử dụng ứng dụng.
 
 Minh Khang Lotto cam kết bảo vệ quyền riêng tư của bạn. Chính sách này mô tả cách chúng tôi thu thập, sử dụng và tiết lộ thông tin thông qua ứng dụng di động Minh Khang Lotto.
 
@@ -33,7 +33,6 @@ Chúng tôi có thể cập nhật Chính Sách Bảo Mật này theo thời gia
 ### 7. Liên Hệ
 Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật này hoặc cách chúng tôi xử lý dữ liệu, vui lòng liên hệ:
 
-**Pham Van Duc (Nhà phát triển Minh Khang Lotto)**  
 📧 phamvanduc.dev@gmail.com
 
 
@@ -61,7 +60,6 @@ Chúng tôi có thể cập nhật Điều Khoản Sử Dụng này bất kỳ l
 ### 5. Liên Hệ
 Nếu bạn có bất kỳ thắc mắc nào liên quan đến Điều Khoản Sử Dụng, vui lòng liên hệ:
 
-**Pham Van Duc (Nhà phát triển Minh Khang Lotto)**  
 📧 phamvanduc.dev@gmail.com
 
 
@@ -69,9 +67,9 @@ Nếu bạn có bất kỳ thắc mắc nào liên quan đến Điều Khoản S
 
 # Privacy Policy 🇬🇧
 
-**Last Updated: Aug 16, 2025**
+**Last Updated: Oct 03, 2025**
 
-This Privacy Policy applies to the **Minh Khang Lotto** mobile application published on Google Play and App Store by **Pham Van Duc (Developer)**. It explains how we handle information when you use our application.
+This Privacy Policy applies to the **Minh Khang Lotto** mobile application published on Google Play and App Store. It explains how we handle information when you use our application.
 
 Minh Khang Lotto is committed to protecting your privacy. This policy outlines our practices regarding the collection, use, and disclosure of information through the Minh Khang Lotto mobile application.
 
@@ -101,7 +99,6 @@ We may update this Privacy Policy from time to time to reflect changes in law or
 ### 7. Contact Us
 If you have any questions about this privacy policy or our data handling practices, please contact us at:
 
-**Pham Van Duc (Developer of Minh Khang Lotto)**  
 📧 phamvanduc.dev@gmail.com
 
 
@@ -129,5 +126,4 @@ We may update these Terms of Use at any time. The updated version will be posted
 ### 5. Contact Us
 If you have any questions regarding these Terms of Use, please contact:
 
-**Pham Van Duc (Developer of Minh Khang Lotto)**  
 📧 phamvanduc.dev@gmail.com
